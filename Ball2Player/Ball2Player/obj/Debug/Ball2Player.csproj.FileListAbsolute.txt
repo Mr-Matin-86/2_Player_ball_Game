@@ -1,0 +1,9 @@
+c:\users\matin\documents\visual studio 2012\Projects\Ball2Player\Ball2Player\bin\Debug\Ball2Player.exe.config
+c:\users\matin\documents\visual studio 2012\Projects\Ball2Player\Ball2Player\bin\Debug\Ball2Player.exe
+c:\users\matin\documents\visual studio 2012\Projects\Ball2Player\Ball2Player\bin\Debug\Ball2Player.pdb
+c:\users\matin\documents\visual studio 2012\Projects\Ball2Player\Ball2Player\obj\Debug\Ball2Player.csprojResolveAssemblyReference.cache
+c:\users\matin\documents\visual studio 2012\Projects\Ball2Player\Ball2Player\obj\Debug\Ball2Player.FRMMain.resources
+c:\users\matin\documents\visual studio 2012\Projects\Ball2Player\Ball2Player\obj\Debug\Ball2Player.Properties.Resources.resources
+c:\users\matin\documents\visual studio 2012\Projects\Ball2Player\Ball2Player\obj\Debug\Ball2Player.csproj.GenerateResource.Cache
+c:\users\matin\documents\visual studio 2012\Projects\Ball2Player\Ball2Player\obj\Debug\Ball2Player.exe
+c:\users\matin\documents\visual studio 2012\Projects\Ball2Player\Ball2Player\obj\Debug\Ball2Player.pdb
